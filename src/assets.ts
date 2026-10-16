@@ -9,12 +9,14 @@ import reviewerSamantha from './assets/images/reviewer_samantha_1792107545979.jp
 
 import seniorGlucose from './assets/images/senior_glucose_test_1792108629920.jpg';
 import glucoseMeterHands from './assets/images/glucose_meter_hands_1792108644186.jpg';
-import heroBottlesTransparent from './assets/images/glpro_bottle_transparent.png';
+import heroBottlesTransparent from './assets/images/glpro_bottles_flawless.png';
 import singleBottleTransparent from './assets/images/glpro_single_bottle_transparent.png';
+import glproBottlesBlueCard from './assets/images/glpro_bottles_blue_card_1792112130642.jpg';
 
 export const IMAGES = {
   heroBottles,
   heroBottlesTransparent,
+  glproBottlesBlueCard,
   glucoseMetabolism,
   seniorGlucose,
   glucoseMeterHands,
