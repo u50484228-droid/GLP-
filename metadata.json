@@ -1,0 +1,6 @@
+{
+  "name": "GLPro - Official Blood Sugar Support",
+  "description": "GLPro natural dietary supplement to support healthy blood sugar levels and metabolic wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
