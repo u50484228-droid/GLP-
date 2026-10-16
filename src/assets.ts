@@ -13,15 +13,20 @@ import heroBottlesTransparent from './assets/images/glpro_bottles_flawless.png';
 import singleBottleTransparent from './assets/images/glpro_single_bottle_transparent.png';
 import glproBottlesBlueCard from './assets/images/glpro_bottles_blue_card_1792112130642.jpg';
 
+import officialBottle6 from './assets/images/official_bottle_6.png';
+import officialBottle3 from './assets/images/official_bottle_3.png';
+import officialBottle2 from './assets/images/official_bottle_2.png';
+
 export const IMAGES = {
-  heroBottles,
-  heroBottlesTransparent,
+  heroBottles: officialBottle6,
+  heroBottlesTransparent: officialBottle6,
   glproBottlesBlueCard,
   glucoseMetabolism,
   seniorGlucose,
   glucoseMeterHands,
-  sixBottles,
-  threeBottles,
+  sixBottles: officialBottle6,
+  threeBottles: officialBottle3,
+  twoBottles: officialBottle2,
   singleBottle,
   singleBottleTransparent,
   reviewerEmily,

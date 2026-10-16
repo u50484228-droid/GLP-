@@ -23,8 +23,8 @@ export const DiscountCallout: React.FC<DiscountCalloutProps> = ({ onOrderClick }
           {/* Bottle Image */}
           <div className="w-full md:w-5/12 flex justify-center">
             <img
-              src={IMAGES.singleBottleTransparent}
-              alt="GLPro Discounted Bottle"
+              src={IMAGES.sixBottles}
+              alt="GLPro Discounted Bottles"
               className="max-h-64 object-contain drop-shadow-md"
             />
           </div>
